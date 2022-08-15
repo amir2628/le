@@ -22,3 +22,6 @@ import time
 start = time.time()
 print(quicksort(array))
 print ("it took", time.time() - start, "seconds.")
+
+#This is one of the sorting algorithms that I found to be faster than the other ones.
+#I timed it and it became the fastest of all, so I chose this one.

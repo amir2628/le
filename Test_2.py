@@ -13,3 +13,5 @@ buf = RingBuffer(4)
 for i in xrange(10):
     buf.append(i)
     print buf.get()
+
+#This is a simple buffer with a defined size of 4
